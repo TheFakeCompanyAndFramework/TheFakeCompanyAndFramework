@@ -4,7 +4,7 @@
     class Empleados {
         
         
-        private empleado = [
+        private array $empleado = [
             
             "nombre" => "",
             "numero" => "",
